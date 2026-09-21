@@ -41,17 +41,6 @@ print(twosum(nums,target))
 
 
 
-# number =[2,7,11,15]
-
-# target =9
-
-# for num in number :
-
-#     diff =target -num
-
-#     if diff in number and diff != num:
-
-#         print(number.index(diff),number.index(num))
 
 
 
